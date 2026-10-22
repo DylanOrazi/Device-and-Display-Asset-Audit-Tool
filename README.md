@@ -252,7 +252,7 @@ The tool does not require:
 
 HOW TO RUN
 
-- Open the Device and Display Asset Audit Tool folder.
+- Extract and Open the Device and Display Asset Audit Tool folder.
 - Click the File Explorer address bar and type PowerShell
 - Open the integrated PowerShell terminal.
 - If script execution is blocked, run:
